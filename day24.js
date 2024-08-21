@@ -1,4 +1,5 @@
 // Day 24
+
 // ### Question 1: *Generate Fibonacci Sequence*
 // Write a function generateFibonacci(n: number): number[] that generates and returns the first n numbers of the Fibonacci sequence. The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the previous two.
 // *Hint:* Use a loop or recursion to build the sequence.
